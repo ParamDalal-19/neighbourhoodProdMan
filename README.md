@@ -2,7 +2,7 @@
 
 Discover the places your neighbourhood actually recommends.
 
-**Live app:** https://neighbourhood-prodman.vercel.app
+**Live app:** https://neighbourhood-prodman-deploy.vercel.app/
 
 ## What is this, and why does it exist?
 
