@@ -1,0 +1,11 @@
+{
+  "version": "0.0.1",
+  "configurations": [
+    {
+      "name": "neighbourhood-dev",
+      "runtimeExecutable": "/Users/paramdalal/.local/node/node-v22.14.0-darwin-arm64/bin/node",
+      "runtimeArgs": ["/Users/paramdalal/New app/node_modules/vite/bin/vite.js"],
+      "port": 5173
+    }
+  ]
+}
